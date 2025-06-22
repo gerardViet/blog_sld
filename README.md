@@ -1,16 +1,26 @@
-# blog_sld
+# 📘 blog_sld
 
-A new Flutter project.
+Application Flutter pour consulter les articles d’un blog connecté à un back-end Slenderline / Directus.
 
-## Getting Started
+## 🚀 Fonctionnalités principales
 
-This project is a starting point for a Flutter application.
+- 📄 Liste des articles
+- 🔍 Détail d’un article
+- 🌐 Intégration avec une API REST (ex. Directus)
+- 🧩 Architecture modulaire (`lib/data`, `lib/ui`, etc.)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Prérequis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK ≥ 3.x
+- Dart ≥ 3.x
+- Connexion internet (pour l’API)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Installation locale
+
+Clone le dépôt, installe les dépendances et lance l’app :
+
+```bash
+git clone https://github.com/gerardViet/blog_sld.git
+cd blog_sld
+flutter pub get
+flutter run
