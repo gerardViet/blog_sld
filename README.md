@@ -1,4 +1,5 @@
 # 📘 blog_sld
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Application Flutter pour consulter les articles d’un blog connecté à un back-end Slenderline / Directus.
 
